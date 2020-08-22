@@ -25,7 +25,7 @@
 
 
 ---
-<!-- conect with me -->
+<!-- Contact me -->
 <div  align="left">
   <h3  align="left">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
