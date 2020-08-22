@@ -10,22 +10,22 @@
 </div>
 
 ---
-<!----mio-->
-<div style="-webkit-column-count: 2; -moz-column-count: 1; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-<div style="display: inline-block;">
-<a href="https://github.com/CBarreiro96"> <img  width="450" height="224" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBarreiro96&theme=radical&hide=glsl,python=true&title_color=519F31&icon_color=7C00DD&text_color=FFFFFF&bg_color=1B2ADF" /> 
+<a>
+<img width="450" height="224" img align="left" alt="Camilo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBarreiro96&theme=vue&show_icons=true&hide_border=true" class="responsive" />
 </a>
-</div>
-<br/>
-<img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=CBarreiro96&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=FFFFFF&bg_color=1B2ADF"></div>
-<div style="display: inline-block;">
-<a href="https://github.com/ashwanisng">
+
+<br>
+
+<a>
+<img width="350" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBarreiro96&theme=vue&layout=compact&hide_border=true" class="responsive"/>
 </a>
-</div>
+
+<br />
 
 
 
 ---
+### Contact me:
 <p align="left">
 <!-- linkedin -->
 <a href="https://www.linkedin.com/in/camilo-barreiro-herrera-909352123/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
