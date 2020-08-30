@@ -2,7 +2,7 @@
 
 ### Hello World! <img src="https://user-images.githubusercontent.com/66263776/91667722-3f08f100-eacc-11ea-8645-20084e881c35.gif" width="50" height="50">,I'm Camilo Barreiro
 
-<p><em>Software Enginner Student at <a href="https://www.holbertonschool.com/">Holberton School </a><img src="https://user-images.githubusercontent.com/66263776/91668267-1cc5a200-ead1-11ea-88b0-b6ebc8319c10.gif" width="25"></br><em>Electrical Enginner at <a href="https://www.lasalle.edu.co/">La Salle University </a><img src="https://user-images.githubusercontent.com/66263776/91668294-644c2e00-ead1-11ea-8774-7e1ff8b9b6a1.gif" width="25">
+<p><em>Electrical Enginner at <a href="https://www.lasalle.edu.co/">La Salle University </a><img src="https://user-images.githubusercontent.com/66263776/91668294-644c2e00-ead1-11ea-8774-7e1ff8b9b6a1.gif" width="30"></br><em>Software Enginner Student at <a href="https://www.holbertonschool.com/">Holberton School </a><img src="https://user-images.githubusercontent.com/66263776/91668267-1cc5a200-ead1-11ea-88b0-b6ebc8319c10.gif" width="40">
 
 
 
