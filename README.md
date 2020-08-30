@@ -2,7 +2,7 @@
 
 ### Hello World! <img src="https://user-images.githubusercontent.com/66263776/91667722-3f08f100-eacc-11ea-8645-20084e881c35.gif" width="50" height="50">,I'm Camilo Barreiro
 
-**"Hello"** :purple_heart:
+<p><em>Software Enginner Student at <a href="https://www.holbertonschool.com/">Holberton School </a><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/daf56637628873.5b8656ad1edbb.gif" width="25"></br><em>Electrical Enginner at <a href="https://www.lasalle.edu.co/">La Salle University </a>
 
 
 
