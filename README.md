@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-### Hello World!<img  src='https://user-images.githubusercontent.com/66263776/91667722-3f08f100-eacc-11ea-8645-20084e881c35.gif'wisth= '25"'>
+### Hello World!<img src="https://user-images.githubusercontent.com/66263776/91667722-3f08f100-eacc-11ea-8645-20084e881c35.gif"width="25px">,   I'm Camilo Barreiro
 
 **"Hello"** :purple_heart:
 
