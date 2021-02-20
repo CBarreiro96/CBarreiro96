@@ -56,7 +56,7 @@
 </div>
 <p align="left">
 <!-- linkedin -->
-<a href="www.linkedin.com/in/camilo-barreiro-herrera"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/camilo-barreiro-herrera/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <!-- twitter -->
 <a href="https://twitter.com/CamiloBarreiro4"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
   
