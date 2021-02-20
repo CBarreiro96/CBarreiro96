@@ -14,24 +14,24 @@
 <table>
   <tbody>
     <tr>
-        <td><center><img align='center' width="37px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image"></center></td>
-        <td><center><img align='center' width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="image"></center></td>
-        <td><center><img align='center' width="90px" src="https://user-images.githubusercontent.com/66263776/108609561-a1b4b880-739c-11eb-9405-9a3494e7fd2f.png" alt="image"></center></td>
-        <td><center><img align='center' width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="image"></center></td>
-        <td><center><img align='center' width="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="image"></center></td>
-        <td><center><img align='center' width="40px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="image"></center></td>
-        <td><center><img align='center' width="40px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="image"></center></td>
+        <td align='center'><img width="37px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image"></td>
+        <td align='center'><img width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="image"></td>
+        <td align='center'><img width="90px" src="https://user-images.githubusercontent.com/66263776/108609561-a1b4b880-739c-11eb-9405-9a3494e7fd2f.png" alt="image"></td>
+        <td align='center'><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="image"></td>
+        <td align='center'><img width="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="image"></td>
+        <td align='center'><img width="40px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="image"></td>
+        <td align='center'><img width="40px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="image"></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td><FONT SIZE=2>Python</font></td>
-      <td><FONT SIZE=2><center>C Language</center></font></td>
-      <td><FONT SIZE=2><center>SQL</center></font></td>
-      <td><FONT SIZE=2><center>GIT</center></font></td>
-      <td><FONT SIZE=2><center>HTML5</center></font></td>
-      <td><FONT SIZE=2><center>CSS3</center></font></td>
-      <td><FONT SIZE=2><center>Javascript</center></font></td>
+      <td align='center'><FONT SIZE=2>Python</font></td>
+      <td align='center'><FONT SIZE=2>C Language</font></td>
+      <td align='center'><FONT SIZE=2>SQL</font></td>
+      <td align='center'><FONT SIZE=2>GIT</font></td>
+      <td align='center'><FONT SIZE=2>HTML5</font></td>
+      <td align='center'><FONT SIZE=2>CSS3</font></td>
+      <td align='center'><FONT SIZE=2>Javascript</font></td>
     </tr>
   </tfoot>
 </table>
