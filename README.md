@@ -8,14 +8,33 @@
 
 ---
 <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<summary>:star2:<b>Skills</b>:star2: </summary>
 	<br/>
-	<img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
-	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/java-%23ea2e2e.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+
+<table>
+  <tbody>
+    <tr>
+        <td><center><img width="37px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image"></center></td>
+        <td><center><img width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="image"></center></td>
+        <td><center><img width="90px" src="https://user-images.githubusercontent.com/66263776/108609561-a1b4b880-739c-11eb-9405-9a3494e7fd2f.png" alt="image"></center></td>
+        <td><center><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="image"></center></td>
+        <td><center><img width="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="image"></center></td>
+        <td><center><img width="40px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="image"></center></td>
+        <td><center><img width="40px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="image"></center></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td><FONT SIZE=2>Python</font></td>
+      <td><FONT SIZE=2><center>C Language</center></font></td>
+      <td><FONT SIZE=2><center>SQL</center></font></td>
+      <td><FONT SIZE=2><center>GIT</center></font></td>
+      <td><FONT SIZE=2><center>HTML5</center></font></td>
+      <td><FONT SIZE=2><center>CSS3</center></font></td>
+      <td><FONT SIZE=2><center>Javascript</center></font></td>
+    </tr>
+  </tfoot>
+</table>
 </details>
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
@@ -37,7 +56,7 @@
 </div>
 <p align="left">
 <!-- linkedin -->
-<a href="https://www.linkedin.com/in/camilo-barreiro-herrera-909352123/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="www.linkedin.com/in/camilo-barreiro-herrera"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <!-- twitter -->
 <a href="https://twitter.com/CamiloBarreiro4"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
   
