@@ -1,12 +1,12 @@
 <!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>-->
 
-# Hello World! <img src="https://user-images.githubusercontent.com/66263776/91667722-3f08f100-eacc-11ea-8645-20084e881c35.gif" width="20" height="20">,I'm Camilo Barreiro
+# Hello World! <img src="https://user-images.githubusercontent.com/66263776/91667722-3f08f100-eacc-11ea-8645-20084e881c35.gif" width="50" height="50">,I'm Camilo Barreiro
 ---
 
 ## About me
-<img align='right' src='https://user-images.githubusercontent.com/66263776/112155766-9fb86200-8bb3-11eb-9e0b-74890022293e.png' width='200"'>
-<p><em>Electrical Enginner at <a href="https://www.lasalle.edu.co/">La Salle University </a><img src="https://user-images.githubusercontent.com/66263776/91668294-644c2e00-ead1-11ea-8774-7e1ff8b9b6a1.gif" width="20" height="30"></br>
-<em>Software developer at <a href="https://www.holbertonschool.com/">Holberton School </a><img src="https://user-images.githubusercontent.com/66263776/91668517-ebe66c80-ead2-11ea-9f3a-cb4fd48c62a5.gif" width="50" height="30">
+<img align='right' src='https://user-images.githubusercontent.com/66263776/112155766-9fb86200-8bb3-11eb-9e0b-74890022293e.png' width='500"'>
+* <p><em>Electrical Enginner at <a href="https://www.lasalle.edu.co/">La Salle University </a><img src="https://user-images.githubusercontent.com/66263776/91668294-644c2e00-ead1-11ea-8774-7e1ff8b9b6a1.gif" width="20" height="30"></br>
+* <em>Software developer at <a href="https://www.holbertonschool.com/">Holberton School </a><img src="https://user-images.githubusercontent.com/66263776/91668517-ebe66c80-ead2-11ea-9f3a-cb4fd48c62a5.gif" width="50" height="30">
 
 
 
