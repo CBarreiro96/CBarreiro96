@@ -46,7 +46,7 @@
       <td align='center'><FONT SIZE=2>Javascript</font></td>
     </tr>
     <tr>
-      <th align="center" colspan="4"><center><FONT SIZE=5>Operating system</font></center></th>
+      <td align="center" colspan="4"><FONT SIZE=5>Operating system</font></td>
     </tr>
     <tr>
       <td align="center" colspan="4"><img width="40px" src="https://user-images.githubusercontent.com/66263776/118020257-7ef0cb00-b31f-11eb-8828-4b881569d7e5.png" alt="Linux-image"></td>
