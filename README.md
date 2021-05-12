@@ -20,7 +20,7 @@
 <div align="center">
   <table>
     <tr>
-      <th align="center" colspan="4"><center>Competitive Programming</center></th>
+      <th align="center" colspan="4"><h3>Competitive Programming</h3></th>
     </tr>
     <tr>
       <td align='center'><img width="37px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image"></td>
@@ -33,7 +33,7 @@
       <td align='center'><FONT SIZE=2>SQL</font></td>
     </tr>
     <tr>
-      <th align="center" colspan="4"><center>Web Development</center></th>
+      <th align="center" colspan="4"><h3>Web Development</h3></center></th>
     </tr>
     <tr>
       <td align='center'><img width="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="HTML-image"></td>
@@ -46,7 +46,7 @@
       <td align='center'><FONT SIZE=2>Javascript</font></td>
     </tr>
     <tr>
-      <th align="center" colspan="4"><center>Operating system</center></th>
+      <th align="center" colspan="4"><h3>Operating system</h3></th>
     </tr>
     <tr>
       <td align="center" colspan="4"><img width="40px" src="https://user-images.githubusercontent.com/66263776/118020257-7ef0cb00-b31f-11eb-8828-4b881569d7e5.png" alt="Linux-image"></td>
