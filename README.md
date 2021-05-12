@@ -55,7 +55,7 @@
       <td align="center" colspan="4">Linux</td>
     </tr>
     <tr>
-      <th align="center" colspan="4"><center><h3>Other help tools</h3></center></th>
+      <th align="center" colspan="4"><h3>Other help tools</h3></th>
     </tr>
     <tr>
       <td align='center'><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git-image"></td>
