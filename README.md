@@ -20,7 +20,7 @@
 <div align="center">
   <table>
     <tr>
-      <th align="center" colspan="4"><center>Competitive Programming</center></th>
+      <th align="center" colspan="4"><center><FONT SIZE=4>Competitive Programming</FONT></center></th>
     </tr>
     <tr>
       <td align='center'><img width="37px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image"></td>
@@ -33,7 +33,7 @@
       <td align='center'><FONT SIZE=2>SQL</font></td>
     </tr>
     <tr>
-      <th align="center" colspan="4"><center>Web Development</center></th>
+      <th align="center" colspan="4"><center><FONT SIZE=4>Web Development</font></center></th>
     </tr>
     <tr>
       <td align='center'><img width="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="HTML-image"></td>
@@ -46,7 +46,7 @@
       <td align='center'><FONT SIZE=2>Javascript</font></td>
     </tr>
     <tr>
-      <th align="center" colspan="4"><center>Operating system</center></th>
+      <th align="center" colspan="4"><center><FONT SIZE=4>Operating system</font></center></th>
     </tr>
     <tr>
       <td align="center" colspan="4"><img width="40px" src="https://user-images.githubusercontent.com/66263776/118020257-7ef0cb00-b31f-11eb-8828-4b881569d7e5.png" alt="Linux-image"></td>
@@ -55,7 +55,7 @@
       <td align="center" colspan="4">Linux</td>
     </tr>
     <tr>
-      <th align="center" colspan="4"><center>Other help tools</center></th>
+      <th align="center" colspan="4"><center><FONT SIZE=4>Other help tools</font></center></th>
     </tr>
     <tr>
       <td align='center'><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git-image"></td>
