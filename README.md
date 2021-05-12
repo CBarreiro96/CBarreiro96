@@ -14,7 +14,7 @@
 
 ---
 <details>
-	<summary>:star2:<b>Skills</b>:star2: </summary>
+	<summary> 🏆 <b>Skills</b> 🏆</summary>
 	<br/>
 
 <table>
