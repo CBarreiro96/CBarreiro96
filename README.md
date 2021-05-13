@@ -69,6 +69,20 @@
       <td align='center'><FONT SIZE=2>SQLALCHEMY</font></td>
       <td align='center'><FONT SIZE=2>DOCKER</font></td>
     </tr>
+          <th align="center" colspan="4"><h3>Integrated Development Environment (IDE)</h3></th>
+    </tr>
+    <tr>
+      <td align='center'><img width="70px" src="https://user-images.githubusercontent.com/66263776/118151454-41e90f00-b3d9-11eb-97ed-9c8a4c421c56.png" alt="Vs-code"></td>
+      <td align='center'><img width="70px" src="https://user-images.githubusercontent.com/66263776/118151778-9db39800-b3d9-11eb-9068-4386c80108ea.png" alt="Emacs"></td>
+      <td align='center'><img width="70px" src="https://user-images.githubusercontent.com/66263776/118153576-ad33e080-b3db-11eb-8b58-a23ca57f863e.png" alt="Vim"></td>
+      <td align='center'><img width="70px" src="https://user-images.githubusercontent.com/66263776/118153932-0e5bb400-b3dc-11eb-8fcb-9ce1d790dbea.png" alt="Pycharm"></td>
+    </tr>
+    <tr>
+      <td align='center'><FONT SIZE=2>VISUAL STUDIO CODE</font></td>
+      <td align='center'><FONT SIZE=2>EMACS</font></td>
+      <td align='center'><FONT SIZE=2>VIM</font></td>
+      <td align='center'><FONT SIZE=2>PYCHARM</font></td>
+    </tr>
   </table>
 </div>
 </details>
