@@ -4,12 +4,14 @@
 
 **About me:**
 <img align='right' src='https://user-images.githubusercontent.com/66263776/112155766-9fb86200-8bb3-11eb-9e0b-74890022293e.png' width='500"'>
+<div align="left">
 
-:heavy_check_mark: :zap: I'm Electrical Enginner at <a href="https://www.lasalle.edu.co/">La Salle University <img src="https://user-images.githubusercontent.com/66263776/91668294-644c2e00-ead1-11ea-8774-7e1ff8b9b6a1.gif" width="20" height="30"></a><br>
-:heavy_check_mark: I'm Software developer at <a href="https://www.holbertonschool.com/">Holberton School </a><img src="https://user-images.githubusercontent.com/66263776/91668517-ebe66c80-ead2-11ea-9f3a-cb4fd48c62a5.gif" width="50" height="30"><br>
+:heavy_check_mark: :zap: I'm Electrical Enginner at <a href="https://www.lasalle.edu.co/">La Salle University</a><br>
+:heavy_check_mark: Currently, I'm studying Master of Software Engineer at Andes University </a><img src="https://user-images.githubusercontent.com/66263776/91668517-ebe66c80-ead2-11ea-9f3a-cb4fd48c62a5.gif" width="50" height="30"><br>
 :heavy_check_mark: :computer: I think that programming is a solution, to improve processes that manually take a lot of time.<br>
 :heavy_check_mark: :star2: I think the projects worked together by several people, amazing things are achieved.:trophy:<br>
 
+</div>
 
 
 ---
